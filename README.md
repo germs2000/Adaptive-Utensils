@@ -10,7 +10,7 @@ This is a GitHub repository intended to act as a template for an open source ass
 This document includes helper text that will not be displayed when rendered. Any text between the less-than sign + exclamation mark + three hyphen-minus (<!---) and matching three hyphen-minus + greater-than sign will not be displayed. This helper text can be deleted once the corresponding section is completed.
 
 This template has a number of fields that can be searched and replaced with other text:
- - <Device_Name> Replace this with filename-friendly version of the device with underscores. e.g., Open_Wobble_Switch
+ - <Adaptive Utensils> Replace this with filename-friendly version of the device with underscores. e.g., Open_Wobble_Switch
  - <DeviceName> Replace this with the human-readable name of the device with spaces. e.g., Open Wobble Switch
  - <DesignerName> Replace this with the person or organization responsible for the design. e.g., John Doe.
  - <Repository_Link> Replace this with the web address for the repository. e.g., (e.g., https://github.com/makersmakingchange/Open-Wobble-Switch))
@@ -37,7 +37,7 @@ The <DeviceName> is open assistive technology (OpenAT). Under the terms of the o
 
 The overall cost of materials is about $<MaterialCost> (plus $<ShippingCost> for component shipping).
 
-<img src="Photos/<Device_Name>.jpg" width="500" alt="Picture of <DeviceName>.">
+<img src="Photos/<Adaptive Utensils>.jpg" width="500" alt="Picture of <DeviceName>.">
 
 ## Makers Making Change Assistive Device Library
 <MMCWebLink>
@@ -61,12 +61,12 @@ If you have the skills and equipment to build this device, and would like to don
 
 ### 1. Read through the Maker Guide
 
-The [Maker Guide](/Documentation/<Device_Name>_Maker_Guide.pdf)  contains all the necessary information to build this device, including tool lists, assembly instructions, programming instructions (if applicable) and testing.
+The [Maker Guide](/Documentation/<Adaptive Utensils>_Maker_Guide.pdf)  contains all the necessary information to build this device, including tool lists, assembly instructions, programming instructions (if applicable) and testing.
 
 
 ### 2. Order the Off-The-Shelf Components
 
-The [Bill of Materials](/Documentation/<Device_Name>_BOM.xlsx) lists all of the parts and components required to build the device.
+The [Bill of Materials](/Documentation/<Adaptive Utensils>_BOM.xlsx) lists all of the parts and components required to build the device.
 
 
 ### 3. Print the 3D Printable components
@@ -75,7 +75,7 @@ All of the files and individual print files can be found in the [/Build_Files/3D
 
 ### 4. Assemble the <DeviceName>
 
-Reference the Assembly Guide section of the [Maker Guide](/Documentation/<Device_Name>_Maker_Guide.pdf) for the tools and steps required to build the device.
+Reference the Assembly Guide section of the [Maker Guide](/Documentation/<Adaptive Utensils>_Maker_Guide.pdf) for the tools and steps required to build the device.
 
 ## How to improve this Device
 As open source assistive technology, you are welcomed and encouraged to improve upon the design. 
@@ -85,10 +85,10 @@ As open source assistive technology, you are welcomed and encouraged to improve 
 <!--- Update the name, link, and version for documentation --->
 | Document             | Version | Link |
 |----------------------|---------|------|
-| Design Rationale     | 1.0     | [<Device_Name>_Design_Rationale](/Documentation/<Device_Name>_Design_Rationale.pdf)     |
-| Maker Guide          | 1.0     | [<Device_Name>_Maker_Guide](/Documentation/<Device_Name>_Maker_Guide.pdf)     |
-| Bill of Materials    | 1.0     | [<Device_Name>_Bill_of_Materials](/Documentation/<Device_Name>_BOM.xlsx)     |
-| User Guide           | 1.0     | [<Device_Name>_User_Guide](/Documentation/<Device_Name>_User_Guide.pdf)    |
+| Design Rationale     | 1.0     | [<Adaptive Utensils>_Design_Rationale](/Documentation/<Adaptive Utensils>_Design_Rationale.pdf)     |
+| Maker Guide          | 1.0     | [<Adaptive Utensils>_Maker_Guide](/Documentation/<Adaptive Utensils>_Maker_Guide.pdf)     |
+| Bill of Materials    | 1.0     | [<Adaptive Utensils>_Bill_of_Materials](/Documentation/<Adaptive Utensils>_BOM.xlsx)     |
+| User Guide           | 1.0     | [<Adaptive Utensils>_User_Guide](/Documentation/<Adaptive Utensils>_User_Guide.pdf)    |
 | Changelog            | 1.0     | [Changelog](CHANGES.txt)     |
 
 ### Design Files
