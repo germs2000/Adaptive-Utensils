@@ -12,7 +12,7 @@ This document includes helper text that will not be displayed when rendered. Any
 This template has a number of fields that can be searched and replaced with other text:
  - Adaptive Utensils Replace this with filename-friendly version of the device with underscores. e.g., Open_Wobble_Switch
  - Adaptive Utensils Replace this with the human-readable name of the device with spaces. e.g., Open Wobble Switch
- - Glenrose Rehabilitation Hospital Replace this with the person or organization responsible for the design. e.g., John Doe.
+ - Alberta Health Services, Research and Innovation Replace this with the person or organization responsible for the design. e.g., John Doe.
  - <Repository_Link> Replace this with the web address for the repository. e.g., (e.g., https://github.com/makersmakingchange/Open-Wobble-Switch))
  - <MMCWebLink> This is the website address including an alphanumeric id for the Makers Making Change Website. e.g., 01tJR000000698oYAA. This will come from MMC staff.  
  - $0-$10 Replace this with the dollar cost and currency (CAD, USD, etc.) of the materials of the device.
@@ -105,7 +105,7 @@ As open source assistive technology, you are welcomed and encouraged to improve 
 
 ## License
 <!--- Add the year(s) for the copyright and the Designer Name. You may use the standard set of open licenses or choose your own for the hardware, software, and accompanying materials. --->
-Copyright (c) 2024 Glenrose Rehabilitation Hospital.
+Copyright (c) 2024 Alberta Health Services, Research and Innovation.
 
 This repository describes Open Hardware:
  - Everything needed or used to design, make, test, or prepare the Adaptive_Utensils is licensed under the [CERN 2.0 Weakly Reciprocal license (CERN-OHL-W v2) or later](https://cern.ch/cern-ohl ) .
@@ -120,7 +120,7 @@ Source Location: <Repository_Link>
 
 ## Attribution
 <!--- Provide any necessary attribution for designs or components that are included in the device or as part of the project. --->
-The device was designed by Glenrose Rehabilitation Hospital. 
+The device was designed by Alberta Health Services, Research and Innovation. 
 
 <!--- This is the attribution for the template. --->
 The documentation template was created by Makers Making Change / Neil Squire Society and is used under a CC BY-SA 4.0 license. It is available at the following link: [https://github.com/makersmakingchange/OpenAT-Template](https://github.com/makersmakingchange/OpenAT-Template)
