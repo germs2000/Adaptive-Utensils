@@ -11,7 +11,7 @@ This document includes helper text that will not be displayed when rendered. Any
 
 This template has a number of fields that can be searched and replaced with other text:
  - <Adaptive Utensils> Replace this with filename-friendly version of the device with underscores. e.g., Open_Wobble_Switch
- - <DeviceName> Replace this with the human-readable name of the device with spaces. e.g., Open Wobble Switch
+ - <Adaptive Utensils> Replace this with the human-readable name of the device with spaces. e.g., Open Wobble Switch
  - <DesignerName> Replace this with the person or organization responsible for the design. e.g., John Doe.
  - <Repository_Link> Replace this with the web address for the repository. e.g., (e.g., https://github.com/makersmakingchange/Open-Wobble-Switch))
  - <MMCWebLink> This is the website address including an alphanumeric id for the Makers Making Change Website. e.g., 01tJR000000698oYAA. This will come from MMC staff.  
@@ -24,20 +24,20 @@ Any text that is currently holding a space / is an instruction for the person fi
 --->
  
 <!--- TITLE --->
-# <DeviceName>
+# <Adaptive Utensils>
 <!--- Should match the name of the GitHub repository. Choose something descriptive rather than whimsical.  --->
 
 ## Overview
 <!--- A brief summary of the project. What it does, who it is for, how much it costs. --->
-The <DeviceName> is an assistive technology device that <INSERT DESCRIPTION FROM THE OUTLINE OF The DEVICE>. 
+The <Adaptive Utensils> is an assistive technology device that <INSERT DESCRIPTION FROM THE OUTLINE OF The DEVICE>. 
 
 <MODIFY LINE AS NECESSARY> The device is comprised of off-the-shelf electronics and 3D printed parts. 
 
-The <DeviceName> is open assistive technology (OpenAT). Under the terms of the open source licenses, the device may be built, used, and improved upon by anyone.
+The <Adaptive Utensils> is open assistive technology (OpenAT). Under the terms of the open source licenses, the device may be built, used, and improved upon by anyone.
 
 The overall cost of materials is about $<MaterialCost> (plus $<ShippingCost> for component shipping).
 
-<img src="Photos/<Adaptive Utensils>.jpg" width="500" alt="Picture of <DeviceName>.">
+<img src="Photos/<Adaptive Utensils>.jpg" width="500" alt="Picture of <Adaptive Utensils>.">
 
 ## Makers Making Change Assistive Device Library
 <MMCWebLink>
@@ -73,7 +73,7 @@ The [Bill of Materials](/Documentation/<Adaptive Utensils>_BOM.xlsx) lists all o
 
 All of the files and individual print files can be found in the [/Build_Files/3D_Printing_Files](/Build_Files/3D_Printing_Files/) folder.
 
-### 4. Assemble the <DeviceName>
+### 4. Assemble the <Adaptive Utensils>
 
 Reference the Assembly Guide section of the [Maker Guide](/Documentation/<Adaptive Utensils>_Maker_Guide.pdf) for the tools and steps required to build the device.
 
@@ -108,7 +108,7 @@ As open source assistive technology, you are welcomed and encouraged to improve 
 Copyright (c) <YEAR> <DesignerName>.
 
 This repository describes Open Hardware:
- - Everything needed or used to design, make, test, or prepare the <DeviceName> is licensed under the [CERN 2.0 Weakly Reciprocal license (CERN-OHL-W v2) or later](https://cern.ch/cern-ohl ) .
+ - Everything needed or used to design, make, test, or prepare the <Adaptive Utensils> is licensed under the [CERN 2.0 Weakly Reciprocal license (CERN-OHL-W v2) or later](https://cern.ch/cern-ohl ) .
  - All software is under the [GNU General Public License v3.0 (GPL-3.0)](https://www.gnu.org/licenses/gpl.html).
  - Accompanying material such as instruction manuals, videos, and other copyrightable works that are useful but not necessary to design, make, test, or prepare the <Device-Name> are published under a [Creative Commons Attribution-ShareAlike 4.0 license (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/) .
 
